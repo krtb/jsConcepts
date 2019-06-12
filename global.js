@@ -1,6 +1,6 @@
 // when at the top of the page, what happens is different
 // most languages execute code one line at a time
-var a;
+var a = 'cookies';
 console.log(a);
 
 // using special keyword, is a value
