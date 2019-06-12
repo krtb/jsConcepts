@@ -15,3 +15,6 @@
 
 # Execution Context
 1. A wrapper to help manage the code that's running
+2. Many lexical environments run at the same time
+3. Managed by the execution context
+4. contains both the code you wrote and things beyond that
