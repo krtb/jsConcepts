@@ -12,3 +12,6 @@
    * would it would sit in memory
    * how it will interact with other variables/functions/elements of program
 3. where ti's written and what surrounds it.
+
+# Execution Context
+1. A wrapper to help manage the code that's running
