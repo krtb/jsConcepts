@@ -19,3 +19,19 @@
 
     1. EXECUTION PHASE
        1. JS engine takes code that was written and makes decisions.
+
+```
+function b(){
+    console.log('called b');
+}
+
+b();
+//output: called b
+console.log(a, 'first');
+//output: undefined
+
+var a = 'hello, world!'
+
+console.log(a, 'second')
+// 'hello, world'
+```
