@@ -34,5 +34,5 @@ a();
 * Execution contexts are created and it doesn't matter where the code is physically written, in regards to when an exect
 * Appropriate outer refrence created based on where your function was written in the JS file
 * Searching chaing of references to outer environments: `scope chain`
-* Where something sits PHSYICALLT OR LEXICALLY
+* Where something sits PHSYICALLY OR LEXICALLY
   * who created me?
