@@ -25,4 +25,5 @@ a();
 3. A new execution context is created for `a()`, then this is put into it's very own `Execution Context`.
 4. Every execution context has it's own variable environment.
 5. `myVar` for `b()` to be stored in it's own execution context with a valuie of `undefined`
-6. 
+6. This has to do with `scope`.
+7. Different scope for every variable.
